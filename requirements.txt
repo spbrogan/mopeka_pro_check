@@ -1,0 +1,7 @@
+pytest
+pytest-html
+pytest-cov
+black
+setuptools
+wheel
+twine
